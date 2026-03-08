@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Scope-OSINT%20%7C%20Intelligence%20%7C%20Investigations-111111?style=for-the-badge" alt="OSINT, Intelligence, and Investigations">
   <img src="https://img.shields.io/badge/Platform-Web%20%2B%20CLI-1f2937?style=for-the-badge" alt="Web and CLI">
-  <img src="https://img.shields.io/badge/Projects-14-334155?style=for-the-badge" alt="14 projects">
+  <img src="https://img.shields.io/badge/Projects-17-334155?style=for-the-badge" alt="17 projects">
   <img src="https://img.shields.io/badge/Status-Active-166534?style=for-the-badge" alt="Active">
 </p>
 
@@ -132,6 +132,24 @@ A lookup tool for retrieving full-resolution Facebook profile photos.
 
 **Source:** Private to protect methodology  
 **Live site:** https://fb2pfp.notalex.sh
+
+---
+
+### spotifyrecon
+
+A lookup tool for Spotify account research and reconnaissance workflows.
+
+**Repo:** https://github.com/Project-Eyrie/spotifyrecon  
+**Live site:** https://spotifyrecon.notalex.sh
+
+---
+
+### adoberecon
+
+A lookup tool for Adobe account research and reconnaissance workflows.
+
+**Repo:** https://github.com/Project-Eyrie/adoberecon  
+**Live site:** https://adoberecon.notalex.sh
 
 ---
 
