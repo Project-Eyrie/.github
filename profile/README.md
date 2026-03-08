@@ -46,7 +46,7 @@ These tools are created for lawful use across law enforcement, intelligence, res
 ### Watson
 
 <p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/watson/main/static/watson-logo.png" alt="Watson logo" width="88">
+  <img src="https://raw.githubusercontent.com/Project-Eyrie/watson/main/static/watson-logo.png" alt="Watson logo" width="45" height="45">
 </p>
 
 An intelligence and investigative platform for rapid data capture, entity tracking, and relationship visualisation.
@@ -59,7 +59,7 @@ An intelligence and investigative platform for rapid data capture, entity tracki
 ### Lucid
 
 <p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/lucid/main/lucid-logo.png" alt="Lucid logo" width="88">
+  <img src="https://raw.githubusercontent.com/Project-Eyrie/lucid/main/lucid-logo.png" alt="Lucid logo" width="45" height="45">
 </p>
 
 An image enhancement, analysis, and forensic workflow tool for investigative and OSINT use.
@@ -72,7 +72,7 @@ An image enhancement, analysis, and forensic workflow tool for investigative and
 ### Scatter
 
 <p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/scatter/main/static/scatter_logo.png" alt="Scatter logo" width="88">
+  <img src="https://raw.githubusercontent.com/Project-Eyrie/scatter/main/static/scatter_logo.png" alt="Scatter logo" width="45" height="45">
 </p>
 
 A mapping and geospatial analysis platform for intelligence, investigations, and OSINT workflows.
@@ -85,7 +85,7 @@ A mapping and geospatial analysis platform for intelligence, investigations, and
 ### Marksmith
 
 <p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/marksmith/main/public/logo.png" alt="Marksmith logo" width="88">
+  <img src="https://raw.githubusercontent.com/Project-Eyrie/marksmith/main/public/logo.png" alt="Marksmith logo" width="45" height="45">
 </p>
 
 A web application for building, organising, and exporting bookmarks for research and workflow support.
