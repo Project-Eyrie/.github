@@ -111,7 +111,7 @@ A utility for turning JavaScript into drag-and-drop bookmarklets for OSINT, rese
 An email research utility for generating, discovering, and verifying likely email addresses from personal information using common naming patterns.
 
 **Repo:** https://github.com/Project-Eyrie/mailcraft  
-**Live site:** https://mailcraft-not-alexs-projects.vercel.app
+**Live site:** https://mailcraft.notalex.sh
 
 ---
 
@@ -131,7 +131,7 @@ A lookup tool for extracting numeric user IDs from Facebook and Instagram profil
 A lookup tool for retrieving full-resolution Facebook profile photos.
 
 **Source:** Private to protect methodology  
-**Live site:** https://fb2pfp.vercel.app
+**Live site:** https://fb2pfp.notalex.sh
 
 ---
 
