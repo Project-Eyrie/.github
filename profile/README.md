@@ -5,7 +5,7 @@
 <h1 align="center">Project Eyrie</h1>
 
 <h3 align="center">
-  <a href="https://eyrie.notalex.sh/">eyrie.notalex.sh</a> •
+  <a href="https://eyrie.notalex.sh/">eyrie.notalex.sh</a>
 </h3>
 
 <p align="center">
