@@ -4,6 +4,10 @@
 
 <h1 align="center">Project Eyrie</h1>
 
+<h3 align="center">
+  <a href="https://eyrie.notalex.sh/">eyrie.notalex.sh</a> •
+</h3>
+
 <p align="center">
   Open-source tooling for intelligence, investigations, and OSINT.
 </p>
@@ -19,12 +23,9 @@
   <img src="https://img.shields.io/badge/Status-Active-166534?style=for-the-badge" alt="Active">
 </p>
 
+
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#flagship-tools">Flagship Tools</a> •
-  <a href="#osint-utilities">OSINT Utilities</a> •
-  <a href="#osint-lookup-tools">OSINT Lookup Tools</a> •
-  <a href="#cli-tools">CLI Tools</a> •
   <a href="#tool-directories">Tool Directories</a> •
   <a href="#privacy-and-security">Privacy and Security</a>
 </p>
@@ -38,185 +39,6 @@ Project Eyrie is a collection of open-source tools designed to support intellige
 The ecosystem includes web applications, lookup tools, mapping workflows, image analysis, email and account research tooling, bookmarklet utilities, and command-line tools built for practical operational use.
 
 These tools are created for lawful use across law enforcement, intelligence, research, security, and private sector investigative environments.
-
----
-
-## Flagship Tools
-
-### Watson
-
-<p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/watson/main/static/watson-logo.png" alt="Watson logo" width="45" height="45">
-</p>
-
-An intelligence and investigative platform for rapid data capture, entity tracking, and relationship visualisation.
-
-**Repo:** https://github.com/Project-Eyrie/watson  
-**Live site:** https://watson.notalex.sh
-
----
-
-### Lucid
-
-<p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/lucid/main/lucid-logo.png" alt="Lucid logo" width="45" height="45">
-</p>
-
-An image enhancement, analysis, and forensic workflow tool for investigative and OSINT use.
-
-**Repo:** https://github.com/Project-Eyrie/lucid  
-**Live site:** https://lucid.notalex.sh
-
----
-
-### Scatter
-
-<p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/scatter/main/static/scatter_logo.png" alt="Scatter logo" width="45" height="45">
-</p>
-
-A mapping and geospatial analysis platform for intelligence, investigations, and OSINT workflows.
-
-**Repo:** https://github.com/Project-Eyrie/scatter  
-**Live site:** https://scatter.notalex.sh
-
----
-
-### Marksmith
-
-<p>
-  <img src="https://raw.githubusercontent.com/Project-Eyrie/marksmith/main/public/logo.png" alt="Marksmith logo" width="45" height="45">
-</p>
-
-A web application for building, organising, and exporting bookmarks for research and workflow support.
-
-**Repo:** https://github.com/Project-Eyrie/marksmith  
-**Live site:** https://marksmith.notalex.sh
-
----
-
-## OSINT Utilities
-
-### Markletsmith
-
-A utility for turning JavaScript into drag-and-drop bookmarklets for OSINT, research, and browser workflow use.
-
-**Repo:** https://github.com/Project-Eyrie/markletsmith  
-**Live site:** https://markletsmith.notalex.sh
-
----
-
-### Mailcraft
-
-An email research utility for generating, discovering, and verifying likely email addresses from personal information using common naming patterns.
-
-**Repo:** https://github.com/Project-Eyrie/mailcraft  
-**Live site:** https://mailcraft.notalex.sh
-
----
-
-## OSINT Lookup Tools
-
-### fb2id
-
-A lookup tool for extracting numeric user IDs from Facebook and Instagram profile URLs.
-
-**Repo:** https://github.com/Project-Eyrie/fb2id  
-**Live site:** https://fb2id.notalex.sh
-
----
-
-### fb2pfp
-
-A lookup tool for retrieving full-resolution Facebook profile photos.
-
-**Source:** Private to protect methodology  
-**Live site:** https://fb2pfp.notalex.sh
-
----
-
-### spotifyrecon
-
-A lookup tool for Spotify account research and reconnaissance workflows.
-
-**Repo:** https://github.com/Project-Eyrie/spotifyrecon  
-**Live site:** https://spotifyrecon.notalex.sh
-
----
-
-### adoberecon
-
-A lookup tool for Adobe account research and reconnaissance workflows.
-
-**Repo:** https://github.com/Project-Eyrie/adoberecon  
-**Live site:** https://adoberecon.notalex.sh
-
----
-
-### o365recon (Web)
-
-A web-based Microsoft 365 reconnaissance tool for domain and user enumeration workflows.
-
-**Repo:** https://github.com/Project-Eyrie/o365recon-web  
-**Live site:** https://o365recon.notalex.sh
-
----
-
-### Kraken (Web)
-
-A web-based GitHub research tool for extracting public email addresses through commit history analysis.
-
-**Repo:** https://github.com/Project-Eyrie/kraken-web  
-**Live site:** https://kraken.notalex.sh
-
----
-
-## CLI Tools
-
-### kraken
-
-Extract public email addresses from GitHub users through commit history analysis.
-
-**Repo:** https://github.com/Project-Eyrie/kraken  
-**Access:** CLI only
-
----
-
-### reversekraken
-
-Discover GitHub accounts linked to email addresses using commit author probing.
-
-**Repo:** https://github.com/Project-Eyrie/reversekraken  
-**Access:** CLI only
-
----
-
-### dig
-
-Instagram profile intelligence and OSINT collection tool.
-
-**Repo:** https://github.com/Project-Eyrie/dig  
-**Access:** CLI only
-
----
-
-### o365recon
-
-Passive Microsoft 365 reconnaissance tool for validating domains and user accounts using public endpoints.
-
-**Repo:** https://github.com/Project-Eyrie/o365recon  
-**Access:** CLI only
-
----
-
-## Tool Directories
-
-### Bookmarklets
-
-A live directory of browser bookmarklets built for open-source research, investigative workflows, and rapid in-browser actions.
-
-**Repo:** https://github.com/Project-Eyrie/bookmarklets  
-**Live site:** https://bookmarklets.notalex.sh
 
 ---
 
